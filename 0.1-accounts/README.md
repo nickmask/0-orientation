@@ -28,3 +28,4 @@ Inviations are sent out 2-5 days before phase-0 begin. Only then will these link
 
 ## Next up:
 [Prepare for orientation](/0.2-prepare-for-orientation/README.md)
+Hello testing
